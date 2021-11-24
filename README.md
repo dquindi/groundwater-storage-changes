@@ -65,7 +65,7 @@ These are the instructions on how to run the scripts.
 This animation shows groundwater storage variations month by month during the period 2002-2016.
 The bluer, the greater the increase in groundwater storage. The redder, the opposite. 
 
-![](./dgw_animation.gif)
+![](./img/dgw_animation.gif)
 
 About the maps: The yellow polygon was created in QGIS based on the map presented by Sayago (1995). The shapefile of the provinces was downloaded from [Instituto Geográfico Nacional de la República Argentina](https://www.ign.gob.ar/).
 
@@ -73,11 +73,11 @@ About the maps: The yellow polygon was created in QGIS based on the map presente
 
 The histogram below provides a visual representation of data distribution. Considering the period 2002-2016, groundwater storage ranged between -15 and 20 cm. The mean value was around 0 cm.
 
-![](./histogram_point.png)
+![](./img/histogram_point.png)
 
 The following graph presents the variations of groundwater storage in La Plata over the study period. The drawn regression line shows a decrease in groundwater storage at a rate of 78 cm per year.
 
-![](./dgw_point.png)
+![](./img/dgw_point.png)
 
 ## References
 
